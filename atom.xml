@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Big Ben</title>
+  <title>Big Ben的个人博客</title>
   
   
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-12-15T14:43:00.407Z</updated>
+  <updated>2022-12-16T05:43:04.927Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,23 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>text</title>
+    <link href="http://example.com/2022/12/16/text/"/>
+    <id>http://example.com/2022/12/16/text/</id>
+    <published>2022-12-16T05:31:39.000Z</published>
+    <updated>2022-12-16T05:43:04.927Z</updated>
+    
+    <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">  <script id="hbeData" type="hbeData" data-hmacdigest="7273342b49616fc399aec5cf43b5066c8e7e4d76db1c5743e05e1e9e91926dc7">4630436162ade97ba2718b7d0c4b3b63cb3a3f659c5ca08b4bca0f5845928186e4a266f4be7037ea95388fad3db3e525f32011229e489077b45fa416caab96ebf04249fa46a786baa3e5a8f76df8b6d1085b392c597d44584db6cf8fd4a0d2ea7e42a791b634ed24b729fdb80cee3f72c58dfd05c4d87b8bd6c012269f7bfecc0d092328630fa6c8ca164cee3e09177a6b97586fcc44cfd912f0668d121fba49618d1c75866766aa3cc9e82eb7c59e7f6011d225a0ee6c2484991e41a3f2cb7534d1b6d54ddb8f0930013add0f5a3efde20f81739e988e73a35994e8015e3fa37fafc6451638e849e124187af05df0da170f9c6b8014a464be0df009d44b5fdf60887da16d71b017bb64bb0d745426db49b0163b8f6398fd61ce93acc8d7e0cbc1c4d984049019ec9a32e1c7b39144dd05bb98c9b54f2f9d717d62b7f51338811162c0b9b2c10985537226a1f8247dc9</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-default">      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Welcome to my blog, enter password to read.</span>      </label>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+    
+    
+    <summary type="html">enter password to read.</summary>
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>hello</title>
