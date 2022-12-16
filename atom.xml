@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Big Ben的个人博客</title>
   
-  
+  <subtitle>做一件事在成功之前，要保持不动声色却满心澎湃。</subtitle>
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
